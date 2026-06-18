@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #e8f0fe;
+    background-color: hsl(217, 11%, 76%);
 }
 
 .login {
